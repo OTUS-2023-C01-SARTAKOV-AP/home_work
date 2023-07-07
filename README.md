@@ -8,7 +8,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-[![Build Status](https://disk.yandex.ru/i/VIRjliE3ta98dA)](https://disk.yandex.ru/i/VIRjliE3ta98dA)
+[![Build Status](https://github.com/OTUS-2023-C01-SARTAKOV-AP/home_work/blob/main/photo.jpg)](https://github.com/OTUS-2023-C01-SARTAKOV-AP/home_work/blob/main/photo.jpg)
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
