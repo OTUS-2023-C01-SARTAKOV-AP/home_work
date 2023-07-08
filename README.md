@@ -3,14 +3,29 @@
 В данном разделе выложены домашние задания, выполненные на онлайн курсе “Программист С” компании otus.ru с января 2023 по август 2023 года.
 
 
-|   |  успехи |
+|   фото 2022 г.|  успехи |
 | ------------ | ------------ |
 |  ![](https://github.com/OTUS-2023-C01-SARTAKOV-AP/home_work/blob/main/img/photo_circle_small.png) |  <table><tbody><tr><td>№ ДЗ&nbsp;</td><td>Тема</td><td>сдано</td></tr><tr><td>01</td><td>&nbsp;</td><td>да</td></tr><tr><td>02</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>03</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>04</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>05</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>06</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>07</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>08</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>09</td><td>&nbsp;</td><td>-</td></tr><tr><td>10</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>11</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>12</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>13</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>14</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>15</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>16</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table> |
 
-<table><tbody><tr><td>№ ДЗ&nbsp;</td><td>Тема</td><td>сдано</td></tr>
+<table><tbody>
+  <tr><td>№ ДЗ&nbsp;</td><td>Тема</td><td>сдано</td></tr>
   <tr><td>01</td><td>&nbsp;</td><td>да</td></tr>
   <tr><td>02</td><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr><td>03</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>04</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>05</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>06</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>07</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>08</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>09</td><td>&nbsp;</td><td>-</td></tr><tr><td>10</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>11</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>12</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>13</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>14</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>15</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>16</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
+  <tr><td>03</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>04</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>05</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>06</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>07</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>08</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>09</td><td>&nbsp;</td><td>-</td></tr>
+  <tr><td>10</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>11</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>12</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>13</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>14</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>15</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+  <tr><td>16</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+</tbody></table>
 
 ### Кратко о себе: 
 
