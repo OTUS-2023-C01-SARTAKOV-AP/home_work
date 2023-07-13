@@ -1,1 +1,0 @@
-../build-Debug/ДЗ_01/main.c.o ../build-Debug/ДЗ_01/text.c.o
