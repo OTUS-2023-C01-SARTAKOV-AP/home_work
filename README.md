@@ -8,7 +8,6 @@
 
 **Внимание!!!** Раздел с домашними заданиями перенесён в другой каталог GitHub.com 
 
-https://avatars.githubusercontent.com/u/133401686?v=4
 
 Найти меня можно в телеграмм адресу https://t.me/Sartakov_Aleksey
 <p> &nbsp; </p>   
